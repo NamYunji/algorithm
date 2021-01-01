@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;step1&apos; to &apos;step1_IO&apos;&#x0D;&#x0A;- Original project: &apos;Baekjoon_Step&apos;&#x0D;&#x0A;- Original element: &apos;Baekjoon_Step/src/step1&apos;&#x0D;&#x0A;- Renamed element: &apos;Baekjoon_Step/src/step1_IO&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;step1&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;step1" name="step1_IO" qualified="false" references="true" stamp="1609514965896" textual="false" version="1.0"/>
+</session>
