@@ -1,0 +1,14 @@
+package step3_For;
+
+import java.util.Scanner;
+
+public class _4 {
+	public static void main(String[] args) {
+		Scanner scanner = new Scanner(System.in);
+		int t = scanner.nextInt();
+		for (int i = 0; i < t; i++) {
+			
+		}
+	}
+
+}
